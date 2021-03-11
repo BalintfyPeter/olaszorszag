@@ -1,0 +1,30 @@
+body {
+    background-image: url(Images/wallpaper.jpg);
+}
+
+#cim {
+    text-align: center;
+}
+
+h2 {
+    text-decoration:underline ;
+}
+
+td {
+    border: 11cm;
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+.green {
+    background-color: green;
+}
+
+.white {
+    background-color: white;
+}
+
+.red {
+    background-color: red
+}
